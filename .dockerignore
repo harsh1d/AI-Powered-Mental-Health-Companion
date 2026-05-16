@@ -1,0 +1,13 @@
+__pycache__
+.git
+.gitignore
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+.streamlit/cache/
+.streamlit/.streamlit/
+.DS_Store
